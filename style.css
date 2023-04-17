@@ -1,0 +1,28 @@
+html, body {
+  height: 100%;
+  width: 100%;
+      font-family: 'Oswald', sans-serif;
+    background-color: #cce8b5;
+    text-align: center;
+}
+.image{
+  
+  flex-direction:column-reverse;
+  margin-left: 15px;
+}
+img{
+  
+    height: auto;
+  width: 200px;
+  display: flex;
+}
+
+.Menu{
+  padding: 5px;
+  position: absolute;
+  right: 100px;
+  top: 50px;
+  float: right;
+  width: 50%;
+}
+
